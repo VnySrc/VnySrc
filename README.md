@@ -5,12 +5,15 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 [![Gmail Badge](https://img.shields.io/badge/-vinyprog.work@gmail.com-0a66c2?style=flat-square&logo=Gmail&logoColor=white&link=https:https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/)](mailto:vinyprog.work@gmail.com) 
 
 ⚡ Fortes:
+<br />
 **Javascript, NodeJs, TypeScript, , Express.js, MySQL e MongoDB**.
-<br />
+
 🧠 Tenho conhecimento em:
- **Html, css, **.
 <br />
+ **Html, css.**
+
 🛠️ Possuo familiaridadde:
+<br />
 **Express.js, Sequelize, Mustache.js**
 
 Seria um Prazer Trabalharmos Juntos! :D
