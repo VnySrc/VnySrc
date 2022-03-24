@@ -10,7 +10,6 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 🧠 Tenho conhecimento em:
  **Html, css, **.
 <br />
-
 🛠️ Possuo familiaridadde:
 **Express.js, Sequelize, Mustache.js**
 
