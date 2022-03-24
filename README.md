@@ -4,11 +4,15 @@ Motivado á descobrir como realmente as coisas funcionam. Atualmente dedico boa 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinycius-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/)](https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/) 
 [![Gmail Badge](https://img.shields.io/badge/-vinyprog.work@gmail.com-0a66c2?style=flat-square&logo=Gmail&logoColor=white&link=https:https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/)](mailto:vinyprog.work@gmail.com) 
 
-⚡ Fortes **Javascript, NodeJs, TypeScript, , Express.js, MySQL e MongoDB**.
+⚡ Fortes:
+**Javascript, NodeJs, TypeScript, , Express.js, MySQL e MongoDB**.
 <br />
-🧠 Tenho conhecimento em **Html, css, **.
+🧠 Tenho conhecimento em:
+ **Html, css, **.
 <br />
-🛠️ **Express.js, Sequelize, Mustache.js Figma e VSCode** Framworks / Ferramentas que possuo familiaridadde.
+
+🛠️ Possuo familiaridadde:
+**Express.js, Sequelize, Mustache.js**
 
 Seria um Prazer Trabalharmos Juntos! :D
 
