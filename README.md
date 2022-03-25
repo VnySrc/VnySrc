@@ -6,7 +6,7 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 
 ⚡ Fortes:
 <br />
-**Javascript, NodeJs, TypeScript, , Express.js, MySQL, PostegreSQL e MongoDB**.
+**Javascript, NodeJs, TypeScript, , Express.js, MySQL, PostegreSQL e MongoDB**
 
 🧠 Tenho conhecimento em:
 <br />
