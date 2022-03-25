@@ -12,7 +12,7 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 <br />
  **Html, css.**
 
-🛠️ Ferramentas que Possuo familiaridadde:
+🛠️ Ferramentas que Possuo Grande Afinididade:
 <br />
 **Express.js, Sequelize, Mustache.js**
 
