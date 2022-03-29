@@ -10,7 +10,11 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 
-
+<style>
+img {
+        height="30" width="40"
+}
+</style>
 
 
 
