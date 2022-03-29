@@ -4,9 +4,24 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinycius-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/)](https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/) 
 [![Gmail Badge](https://img.shields.io/badge/-vinyprog.work@gmail.com-0a66c2?style=flat-square&logo=Gmail&logoColor=white&link=https:https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/)](mailto:vinyprog.work@gmail.com) 
 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-nodejs-plain-wordmark colored"></i>
+<i class="devicon-typescript-plain colored"></i>
+<i class="devicon-express-original-wordmark"></i>
+<i class="devicon-mysql-plain-wordmark colored"></i>
+<i class="devicon-postgresql-plain-wordmark colored"></i>
+<i class="devicon-mongodb-plain-wordmark colored"></i>
+
+
+
+
+
+
 ⚡ Fortes:
 <br />
-**Javascript, NodeJs, TypeScript, , Express.js, MySQL, PostegreSQL e MongoDB**
+**Javascript, NodeJs, TypeScript, , Express.js, MySQL, PostgreSQL e MongoDB**
 
 🧠 Tenho conhecimento em:
 <br />
