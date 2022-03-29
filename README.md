@@ -5,7 +5,6 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 <img align="center" alt="Viny-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
@@ -25,7 +24,7 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 <br />
 **Express.js, Sequelize, Mustache.js**
 
-Seria um Prazer Trabalharmos Juntos! :D
+Seria um Prazer Trabalharmos Juntos! :D </br>
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinycius-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/)](https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/) 
 [![Gmail Badge](https://img.shields.io/badge/-vinyprog.work@gmail.com-0a66c2?style=flat-square&logo=Gmail&logoColor=white&link=https:https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/)](mailto:vinyprog.work@gmail.com) 
 > ***💡 O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.”
