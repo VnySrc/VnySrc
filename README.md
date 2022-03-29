@@ -1,17 +1,15 @@
 ## Marcos Vinycius
 Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. Atualmente dedico boa parte das horas do meu dia para estudar e consequentemente aprimorar minhas habilidades existentes e descobrir novas. Uma qualidade minha? *** Dedicação ***
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<div style="display: inline_block"><br>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-nodejs-plain-wordmark colored"></i>
-<i class="devicon-typescript-plain colored"></i>
-<i class="devicon-express-original-wordmark"></i>
-<i class="devicon-mysql-plain-wordmark colored"></i>
-<i class="devicon-postgresql-plain-wordmark colored"></i>
-<i class="devicon-mongodb-plain-wordmark colored"></i>src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+
 
 
 
