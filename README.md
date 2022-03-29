@@ -12,7 +12,6 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 
 <br />
 <hr />
-<br />
 
 ⚡ Fortes:
 <br />
