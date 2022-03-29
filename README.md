@@ -1,8 +1,6 @@
 ## Marcos Vinycius </br>
 Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. Atualmente dedico boa parte das horas do meu dia para estudar e consequentemente aprimorar minhas habilidades existentes e descobrir novas. Uma qualidade minha? *** Dedicação ***
 
-</br>
-
 <div display="flex" gap="5px">
 <img align="center" alt="Viny-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
