@@ -10,9 +10,9 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 <img align="center" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
 
-</br>
-##
-</br>
+<br />
+<hr />
+<br />
 
 ⚡ Fortes:
 <br />
@@ -25,6 +25,8 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 🛠️ Ferramentas que Possuo Grande Afinididade:
 <br />
 **Express.js, Sequelize, Mustache.js**
+
+<hr />
 
 Seria um Prazer Trabalharmos Juntos! :D </br>
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinycius-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/)](https://www.linkedin.com/in/marcos-vinycius-silva-a00587234/) 
