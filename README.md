@@ -18,7 +18,7 @@ Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. 
 
 🧠 Tenho conhecimento em:
 <br />
- **Frontend / Backend, Banco de dados, Autenticação, Desenvolvimento de Api RESTful, Consumir API, Integração do Frontend com o Backend ...**
+ **Frontend / Backend, Banco de dados, Autenticação, Desenvolvimento de Api RESTful, Consumir API, Integração do Frontend com o Backend**
 
 🛠️ Ferramentas que Possuo Grande Afinididade:
 <br />
