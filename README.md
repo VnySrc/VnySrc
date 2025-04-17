@@ -2,7 +2,7 @@
 
 Instagram
 @marcoss_vinycius
-<a href="https://www.instagram.com/marcoss_vinycius/">
+<a href="https://www.instagram.com/marcoss_vinycius/"> Instagram  </a>
 Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. Atualmente dedico boa parte das horas do meu dia para estudar e consequentemente aprimorar minhas habilidades existentes e descobrir novas. Uma qualidade minha? *** Dedicação ***
 
 <div display="flex" gap="3px">
