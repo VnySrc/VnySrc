@@ -1,9 +1,10 @@
 ## Marcos Vinycius </br>
 
-Instagram
-@marcoss_vinycius
-<a href="https://www.instagram.com/marcoss_vinycius/"> Instagram  </a>
-Motivado à descobrir como as coisas realmente acontecem por debaixo dos panos. Atualmente dedico boa parte das horas do meu dia para estudar e consequentemente aprimorar minhas habilidades existentes e descobrir novas. Uma qualidade minha? *** Dedicação ***
+<br />
+<a href="https://www.instagram.com/marcoss_vinycius/"> Instagram @marcoss_vinycius </a>
+<br />
+
+Desenvolvedor FullStack Pleno, ddesenvolvedor de Saas e Plataformas multi estruturadas
 
 <div display="flex" gap="3px">
 <img align="center" alt="Viny-Js" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
